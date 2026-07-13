@@ -193,7 +193,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260718T140000
 DTEND;TZID=America/Los_Angeles:20260718T180000
-SUMMARY:[Atfal] Swimming Activities
+SUMMARY:[Atfal] Camp Activities
 LOCATION:Camp Nawakwa - Lake
 UID:ijtema2026-025@mkasouthwest
 END:VEVENT
