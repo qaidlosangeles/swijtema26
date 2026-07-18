@@ -11865,15 +11865,15 @@ LOCATION:Camp Nawakwa - Rock Climbing Area
 UID:ijtema2026-019@mkasouthwest
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260718T110000
-DTEND;TZID=America/Los_Angeles:20260718T120000
+DTSTART;TZID=America/Los_Angeles:20260718T120000
+DTEND;TZID=America/Los_Angeles:20260718T143000
 SUMMARY:[Khuddam] Lake Activities
 LOCATION:Camp Nawakwa - Lake
 UID:ijtema2026-020@mkasouthwest
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260718T120000
-DTEND;TZID=America/Los_Angeles:20260718T123000
+DTEND;TZID=America/Los_Angeles:20260718T143000
 SUMMARY:[Atfal] Lake Activities
 LOCATION:Camp Nawakwa - Lake
 UID:ijtema2026-021@mkasouthwest
@@ -11893,14 +11893,14 @@ LOCATION:Camp Nawakwa - Lake
 UID:ijtema2026-023@mkasouthwest
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260718T133000
-DTEND;TZID=America/Los_Angeles:20260718T140000
+DTSTART;TZID=America/Los_Angeles:20260718T150000
+DTEND;TZID=America/Los_Angeles:20260718T153000
 SUMMARY:Zohr & Asr Prayers
-LOCATION:Camp Nawakwa - Lake
+LOCATION:Camp Nawakwa - Main Hall
 UID:ijtema2026-024@mkasouthwest
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260718T140000
+DTSTART;TZID=America/Los_Angeles:20260718T153000
 DTEND;TZID=America/Los_Angeles:20260718T180000
 SUMMARY:[Atfal] Camp Activities
 LOCATION:Camp Nawakwa - Lake
