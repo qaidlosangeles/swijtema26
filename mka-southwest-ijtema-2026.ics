@@ -11907,7 +11907,7 @@ LOCATION:Camp Nawakwa - Lake
 UID:ijtema2026-025@mkasouthwest
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260718T143000
+DTSTART;TZID=America/Los_Angeles:20260718T153000
 DTEND;TZID=America/Los_Angeles:20260718T180000
 SUMMARY:[Khuddam] Ijtema Taleem Competitions
 LOCATION:Camp Nawakwa - Main Hall
