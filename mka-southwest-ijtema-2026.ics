@@ -11991,32 +11991,11 @@ LOCATION:Camp Nawakwa - Cabin
 UID:ijtema2026-037@mkasouthwest
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260719T063000
-DTEND;TZID=America/Los_Angeles:20260719T080000
-SUMMARY:Morning Hike — Optional
-LOCATION:Camp Nawakwa - Outside Main Hall
-UID:ijtema2026-038@mkasouthwest
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260719T080000
 DTEND;TZID=America/Los_Angeles:20260719T090000
 SUMMARY:Breakfast
 LOCATION:Camp Nawakwa - Cafeteria
 UID:ijtema2026-039@mkasouthwest
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260719T090000
-DTEND;TZID=America/Los_Angeles:20260719T120000
-SUMMARY:[Khuddam] Camp Activities
-LOCATION:Camp Nawakwa - Outside Main Hall
-UID:ijtema2026-040@mkasouthwest
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260719T090000
-DTEND;TZID=America/Los_Angeles:20260719T120000
-SUMMARY:[Atfal] Camp Activities
-LOCATION:Camp Nawakwa - Outside Main Hall
-UID:ijtema2026-041@mkasouthwest
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;TZID=America/Los_Angeles:20260719T120000
@@ -12033,22 +12012,22 @@ LOCATION:Camp Nawakwa - Cafeteria
 UID:ijtema2026-042@mkasouthwest
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260719T140000
-DTEND;TZID=America/Los_Angeles:20260719T153000
+DTSTART;TZID=America/Los_Angeles:20260719T100000
+DTEND;TZID=America/Los_Angeles:20260719T120000
 SUMMARY:Closing Session
 LOCATION:Camp Nawakwa - Main Hall
 UID:ijtema2026-043@mkasouthwest
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260719T153000
-DTEND;TZID=America/Los_Angeles:20260719T160000
+DTSTART;TZID=America/Los_Angeles:20260719T140000
+DTEND;TZID=America/Los_Angeles:20260719T143000
 SUMMARY:Zohr & Asr Prayers
 LOCATION:Camp Nawakwa - Main Hall
 UID:ijtema2026-044@mkasouthwest
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/Los_Angeles:20260719T160000
-DTEND;TZID=America/Los_Angeles:20260719T163000
+DTSTART;TZID=America/Los_Angeles:20260719T143000
+DTEND;TZID=America/Los_Angeles:20260719T150000
 SUMMARY:Cleanup & Depart
 LOCATION:Camp Nawakwa
 UID:ijtema2026-045@mkasouthwest
